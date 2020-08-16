@@ -1,2 +1,2 @@
 # clouding
-github图库
+github图床
